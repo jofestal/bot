@@ -92,9 +92,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz)
+  [![Jofestal](https://github.com/jofestal.png?size=100)](https://github.com/farhan-dqz)
 ----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  |
+[jofestal](https://github.com/jofestal)  |
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
